@@ -1,5 +1,5 @@
 
-# Clima (Weather Application).
+# CLIMA (Weather Application).
 
 It's a multi platform weather Application which is powered by Flutter and OpenWeather's API, with support for 6 platform's.
 
